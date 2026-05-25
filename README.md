@@ -1,7 +1,3 @@
-# IPL Analysis
-Interactive IPL Analysis Dashboard (2008–2025) built using Power BI Desktop to analyze team performance, player statistics, tournament insights, and season-wise trends through dynamic visualizations, KPIs, and data-driven analytics.
-# 🏏 IPL Analysis Dashboard (2008–2025)
-
 ## 📌 Project Overview
 
 Interactive IPL Analysis Dashboard developed using Power BI Desktop to analyze IPL data from 2008–2025 with dynamic insights into team performance, player statistics, tournament trends, and season-wise analysis.
