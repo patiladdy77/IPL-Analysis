@@ -10,7 +10,7 @@ Interactive IPL Analysis Dashboard developed using Power BI Desktop to analyze I
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Finaldashboardimages/dashboard.png)
+![Dashboard](Final%20dashboard%20images/ipl%20dashboard.png)
 
 ---
 
